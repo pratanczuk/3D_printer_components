@@ -1,0 +1,64 @@
+# EESchema Netlist Version 1.1 created  2012-08-15 22:11:28
+(
+ ( /502BFD86 D4 D1 ZENER
+  ( 1 N-000014 )
+  ( 2 VCC )
+ )
+ ( /4B71CF3E 1pin H1 H1
+  ( 1 GND )
+ )
+ ( /4B71CF8B 1pin H2 H1
+  ( 1 GND )
+ )
+ ( /4B71CF8F 1pin H3 H1
+  ( 1 GND )
+ )
+ ( /4B71CF92 1pin H4 H1
+  ( 1 GND )
+ )
+ ( /502BFD13 PIN_ARRAY_5x1 P1 TTL_Input
+  ( 1 N-000013 )
+  ( 2 N-000016 )
+  ( 3 N-000019 )
+  ( 4 N-000015 )
+  ( 5 GND )
+ )
+ ( /4B2E505A PINHEAD1-2 P2 12/24v_Power
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /502BFBCC PIN_ARRAY_5x1 P3 Motor_socket
+  ( 1 N-000007 )
+  ( 2 N-000008 )
+  ( 3 N-000009 )
+  ( 4 N-000010 )
+  ( 5 VCC )
+ )
+ ( /502BFCE8 DIP-16__300_ELL U1 ULN2003
+  ( 1 N-000013 )
+  ( 2 N-000016 )
+  ( 3 N-000019 )
+  ( 4 N-000015 )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 GND )
+  ( 9 N-000014 )
+  ( 10 ? )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 N-000010 )
+  ( 14 N-000009 )
+  ( 15 N-000008 )
+  ( 16 N-000007 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ D?
+ SO*
+ SM*
+$endlist
+$endfootprintlist
+}

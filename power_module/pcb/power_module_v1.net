@@ -1,0 +1,266 @@
+# EESchema Netlist Version 1.1 created  2012-08-15 12:45:22
+(
+ ( /502B7AA7 $noname  P25 PWR_SW_OUT {Lib=CONN_2}
+  (    1 N-000007 )
+  (    2 GND )
+ )
+ ( /502B7AA4 $noname  P24 PWR_SW_IN {Lib=CONN_2}
+  (    1 N-000007 )
+  (    2 GND )
+ )
+ ( /502B7993 $noname  P13 VCC_Power_Out {Lib=CONN_2}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /502B798D $noname  P14 VCC_Power_Out {Lib=CONN_2}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /502B798C $noname  P15 VCC_Power_Out {Lib=CONN_2}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /502B7987 $noname  P16 VCC_Power_Out {Lib=CONN_2}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /502B790E $noname  P17 Power_IN_3.3v {Lib=CONN_2}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /502B790B $noname  P21 Power_Out {Lib=CONN_2}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /502B7908 $noname  P20 Power_Out {Lib=CONN_2}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /502B7907 $noname  P19 Power_Out {Lib=CONN_2}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /502B7904 $noname  P18 Power_Out {Lib=CONN_2}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /502B78FC $noname  P22 Power_Out {Lib=CONN_2}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /502B78F9 $noname  P23 Power_Out {Lib=CONN_2}
+  (    1 +3.3V )
+  (    2 GND )
+ )
+ ( /502B78C3 $noname  P12 Power_Out {Lib=CONN_2}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /502B78C0 $noname  P11 Power_Out {Lib=CONN_2}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /502B7839 $noname  P7 Power_Out {Lib=CONN_2}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /502B7833 $noname  P8 Power_Out {Lib=CONN_2}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /502B7832 $noname  P9 Power_Out {Lib=CONN_2}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /502B782D $noname  P10 Power_Out {Lib=CONN_2}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /502B77A2 $noname  P6 Power_IN_5v {Lib=CONN_2}
+  (    1 +5V )
+  (    2 GND )
+ )
+ ( /502B7755 $noname  P5 VCC_D_Power_Out {Lib=CONN_2}
+  (    1 VEE )
+  (    2 GND )
+ )
+ ( /502B7735 $noname  P4 VCC_D_Power_Out {Lib=CONN_2}
+  (    1 VEE )
+  (    2 GND )
+ )
+ ( /502B772A $noname  P3 VCC_D_Power_Out {Lib=CONN_2}
+  (    1 VEE )
+  (    2 GND )
+ )
+ ( /502A8243 $noname  P1 VCC_D_Power_Out {Lib=CONN_2}
+  (    1 VEE )
+  (    2 GND )
+ )
+ ( /4B71CF92 $noname  H4 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4B71CF8F $noname  H3 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4B71CF8B $noname  H2 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4B71CF3E $noname  H1 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4B6A0A62 $noname  C41 1uF {Lib=C}
+  (    1 VCC )
+  (    2 N-000005 )
+ )
+ ( /4B622DEF $noname  C22 1uF {Lib=C}
+  (    1 N-000005 )
+  (    2 N-000004 )
+ )
+ ( /4B623123 $noname  R69 200k {Lib=R}
+  (    1 GND )
+  (    2 N-000004 )
+ )
+ ( /4B622E60 $noname  Q8 IRF5305 {Lib=MOSFET_P}
+  (    D VCC )
+  (    G N-000005 )
+  (    S VEE )
+ )
+ ( /4B2E505A $noname  P2 Power_IN {Lib=CONN_2}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /4B2E07F0 $noname  C16 2200uF {Lib=CAPAPOL}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /4B2DE726 $noname  R53 1k {Lib=R}
+  (    1 N-000006 )
+  (    2 GND )
+ )
+ ( /4B2DE725 $noname  D6 LED {Lib=LED}
+  (    1 VEE )
+  (    2 N-000006 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C41
+ SM*
+ C?
+ C1-1
+$endlist
+$component C22
+ SM*
+ C?
+ C1-1
+$endlist
+$component R69
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component C16
+ CP*
+ SM*
+$endlist
+$component R53
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "GND" "GND"
+ H4 1
+ P25 2
+ P24 2
+ P13 2
+ P14 2
+ P15 2
+ C16 2
+ R53 2
+ P3 2
+ P1 2
+ P22 2
+ P23 2
+ P12 2
+ P16 2
+ P17 2
+ P21 2
+ P20 2
+ P19 2
+ P18 2
+ P10 2
+ H1 1
+ H2 1
+ H3 1
+ P8 2
+ P6 2
+ P5 2
+ P7 2
+ P4 2
+ P11 2
+ P9 2
+ P2 2
+ R69 1
+Net 2 "+5V" "+5V"
+ P7 1
+ P11 1
+ P10 1
+ P8 1
+ P12 1
+ P9 1
+ P6 1
+Net 3 "VEE" "VEE"
+ P4 1
+ D6 1
+ P1 1
+ P3 1
+ P5 1
+ Q8 S
+Net 4 "" ""
+ C22 2
+ R69 2
+Net 5 "" ""
+ Q8 G
+ C41 2
+ C22 1
+Net 6 "" ""
+ D6 2
+ R53 1
+Net 7 "" ""
+ P24 1
+ P25 1
+Net 8 "VCC" "VCC"
+ P16 1
+ C16 1
+ P2 1
+ Q8 D
+ C41 1
+ P13 1
+ P14 1
+ P15 1
+Net 9 "+3.3V" "+3.3V"
+ P21 1
+ P18 1
+ P20 1
+ P17 1
+ P23 1
+ P19 1
+ P22 1
+}
+#End

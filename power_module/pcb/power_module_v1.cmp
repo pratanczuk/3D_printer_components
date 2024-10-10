@@ -1,0 +1,255 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 2012-08-15 12:33:59
+
+BeginCmp
+TimeStamp = /4B2E07F0;
+Reference = C16;
+ValeurCmp = 2200uF;
+IdModule  = RAD16mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B622DEF;
+Reference = C22;
+ValeurCmp = 1uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B6A0A62;
+Reference = C41;
+ValeurCmp = 1uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B2DE725;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_5mm_Vert;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF3E;
+Reference = H1;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF8B;
+Reference = H2;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF8F;
+Reference = H3;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF92;
+Reference = H4;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /502A8243;
+Reference = P1;
+ValeurCmp = VCC_D_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B2E505A;
+Reference = P2;
+ValeurCmp = Power_IN;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B772A;
+Reference = P3;
+ValeurCmp = VCC_D_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7735;
+Reference = P4;
+ValeurCmp = VCC_D_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7755;
+Reference = P5;
+ValeurCmp = VCC_D_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B77A2;
+Reference = P6;
+ValeurCmp = Power_IN_5v;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7839;
+Reference = P7;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7833;
+Reference = P8;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7832;
+Reference = P9;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B782D;
+Reference = P10;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B78C0;
+Reference = P11;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B78C3;
+Reference = P12;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7993;
+Reference = P13;
+ValeurCmp = VCC_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B798D;
+Reference = P14;
+ValeurCmp = VCC_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B798C;
+Reference = P15;
+ValeurCmp = VCC_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7987;
+Reference = P16;
+ValeurCmp = VCC_Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B790E;
+Reference = P17;
+ValeurCmp = Power_IN_5v;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7904;
+Reference = P18;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7907;
+Reference = P19;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7908;
+Reference = P20;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B790B;
+Reference = P21;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B78FC;
+Reference = P22;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B78F9;
+Reference = P23;
+ValeurCmp = Power_Out;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7AA4;
+Reference = P24;
+ValeurCmp = PWR_SW_IN;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502B7AA7;
+Reference = P25;
+ValeurCmp = PWR_SW_OUT;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B622E60;
+Reference = Q8;
+ValeurCmp = IRF5305;
+IdModule  = TO220_MOSFET_P_VERT_COOL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B2DE726;
+Reference = R53;
+ValeurCmp = 1k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B623123;
+Reference = R69;
+ValeurCmp = 200k;
+IdModule  = SM1206;
+EndCmp
+
+EndListe

@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 2012-08-27 22:30:10
+
+BeginCmp
+TimeStamp = /4B71CF3E;
+Reference = H1;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF8B;
+Reference = H2;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF8F;
+Reference = H3;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF92;
+Reference = H4;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /502A973A;
+Reference = P2;
+ValeurCmp = Input;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /503BD830;
+Reference = P3;
+ValeurCmp = Motor;
+IdModule  = PINHEAD1-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503BD81F;
+Reference = P4;
+ValeurCmp = Fan_Heater;
+IdModule  = PINHEAD1-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /503BD814;
+Reference = P5;
+ValeurCmp = Sensor;
+IdModule  = PINHEAD1-2;
+EndCmp
+
+EndListe

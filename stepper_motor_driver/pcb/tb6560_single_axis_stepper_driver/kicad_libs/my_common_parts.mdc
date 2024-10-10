@@ -1,0 +1,211 @@
+PCBNEW-LibDoc----V1  Sa 13 Feb 2010 01:33:39 CET
+#
+$MODULE Poti_W64_Stehend
+Li Poti_W64_Stehend
+Cd Potiometer
+Kw Poti Potiometer
+$EndMODULE
+#
+$MODULE LED_3mm_Vert
+Li LED_3mm_Vert
+Cd Led verticale diam 4mm
+Kw LED DEV
+$EndMODULE
+#
+$MODULE D_BYV27
+Li D_BYV27
+Cd Diode 4 pas
+Kw DIODE DEV
+$EndMODULE
+#
+$MODULE LM317_TO220_VERT
+Li LM317_TO220_VERT
+Cd Regulateur TO220 serie LM78xx
+Kw TR TO220
+$EndMODULE
+#
+$MODULE TO92_Vert
+Li TO92_Vert
+Cd Transistor TO92 brochage type BC237
+Kw TR TO92
+$EndMODULE
+#
+$MODULE Drahtbruecke_7.62
+Li Drahtbruecke_7.62
+Cd Bruecke Drahtbruecke
+Kw Bruecke Drahtbruecke
+$EndMODULE
+#
+$MODULE Drahtbruecke_10.08
+Li Drahtbruecke_10.08
+Cd Bruecke Drahtbruecke
+Kw Bruecke Drahtbruecke
+$EndMODULE
+#
+$MODULE Centronics_36_Female
+Li Centronics_36_Female
+Cd CONN
+Kw centronics pcb female
+$EndMODULE
+#
+$MODULE Conn_2_Loetpads_1.0mm
+Li Conn_2_Loetpads_1.0mm
+Cd Loetloecher
+Kw PADS CONN
+$EndMODULE
+#
+$MODULE Jumper_4x2
+Li Jumper_4x2
+Cd JUMPER
+Kw JUMPER
+$EndMODULE
+#
+$MODULE Jumper_2x2
+Li Jumper_2x2
+Cd JUMPER
+Kw JUMPER
+$EndMODULE
+#
+$MODULE Bohrung_3.2mm
+Li Bohrung_3.2mm
+Cd CONN
+Kw Bohrloch
+$EndMODULE
+#
+$MODULE Drahtbruecke_5.04
+Li Drahtbruecke_5.04
+Cd Bruecke Drahtbruecke
+Kw Bruecke Drahtbruecke
+$EndMODULE
+#
+$MODULE Conn_4_Loetpads
+Li Conn_4_Loetpads
+Cd Loetloecher
+Kw PADS CONN
+$EndMODULE
+#
+$MODULE TO220_MOSFET_P_VERT
+Li TO220_MOSFET_P_VERT
+Cd Regulateur TO220 serie LM78xx
+Kw TR TO220
+$EndMODULE
+#
+$MODULE TO220_LM78xx_VERT
+Li TO220_LM78xx_VERT
+Cd Regulateur TO220 serie LM78xx
+Kw TR TO220 VERT
+$EndMODULE
+#
+$MODULE SOT23BEC_BC847
+Li SOT23BEC_BC847
+Cd Module CMS SOT23 Transistore EBC
+Kw CMS SOT
+$EndMODULE
+#
+$MODULE DO214AB
+Li DO214AB
+Cd D214AB
+Kw DIODE SMD D214AB
+$EndMODULE
+#
+$MODULE TO220_LM78xx_VERT_COOL
+Li TO220_LM78xx_VERT_COOL
+Cd Regulateur TO220 serie LM78xx
+Kw TR TO220 VERT
+$EndMODULE
+#
+$MODULE TO220_MOSFET_P_VERT_COOL
+Li TO220_MOSFET_P_VERT_COOL
+Cd Regulateur TO220 serie LM78xx
+Kw TR TO220
+$EndMODULE
+#
+$MODULE DIPS-DS06-1Side
+Li DIPS-DS06-1Side
+Kw dip switch
+$EndMODULE
+#
+$MODULE LED_3mm_Vert-1Side
+Li LED_3mm_Vert-1Side
+Cd Led verticale diam 4mm
+Kw LED DEV
+$EndMODULE
+#
+$MODULE Centronics_36_Female-1Side
+Li Centronics_36_Female-1Side
+Cd CONN
+Kw centronics pcb female
+$EndMODULE
+#
+$MODULE TO220_MOSFET_P_VERT_COOL-1Side
+Li TO220_MOSFET_P_VERT_COOL-1Side
+Cd Regulateur TO220 serie LM78xx
+Kw TR TO220
+$EndMODULE
+#
+$MODULE LED_5mm_Vert-1Side
+Li LED_5mm_Vert-1Side
+Cd Led verticale diam 6mm
+Kw LED DEV
+$EndMODULE
+#
+$MODULE LED_5mm_Vert
+Li LED_5mm_Vert
+Cd Led verticale diam 6mm
+Kw LED DEV
+$EndMODULE
+#
+$MODULE SIL-4G-1Side
+Li SIL-4G-1Side
+Cd Connecteur 4 pibs
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE FUSIBLE_VERT
+Li FUSIBLE_VERT
+Cd FUSE
+Kw FUSE
+$EndMODULE
+#
+$MODULE FUSIBLE_VERT-1Side
+Li FUSIBLE_VERT-1Side
+Cd FUSE
+Kw FUSE
+$EndMODULE
+#
+$MODULE FUSIBLE_MINI_VERT-1Side
+Li FUSIBLE_MINI_VERT-1Side
+Cd FUSE
+Kw FUSE
+$EndMODULE
+#
+$MODULE FUSIBLE_10mm_VERT-1Side
+Li FUSIBLE_10mm_VERT-1Side
+Cd FUSE
+Kw FUSE
+$EndMODULE
+#
+$MODULE FUSIBLE_10mm_VERT
+Li FUSIBLE_10mm_VERT
+Cd FUSE
+Kw FUSE
+$EndMODULE
+#
+$MODULE FUSIBLE_MINI_VERT
+Li FUSIBLE_MINI_VERT
+Cd FUSE
+Kw FUSE
+$EndMODULE
+#
+$MODULE DIPS-DS06
+Li DIPS-DS06
+Kw dip switch
+$EndMODULE
+#
+$MODULE HZIP25
+Li HZIP25
+Cd HZIP25
+Kw ZIP25 HZIP25 ZIP HZIP
+$EndMODULE
+#
+$EndLIBDOC

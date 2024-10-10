@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3  Date: 2011-12-28 00:58:32
+#encoding utf-8
+#
+# power_supply_simple
+#
+DEF power_supply_simple U 0 40 Y Y 1 F N
+F0 "U" 0 -100 50 H V C CNN
+F1 "power_supply_simple" 0 200 50 H V C CNN
+DRAW
+S -450 -300 450 300 0 0 0 N
+X VCC 1 -750 100 300 R 50 50 1 1 W
+X GND 2 -750 0 300 R 50 50 1 1 W
+X +5v 3 -750 -100 300 R 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

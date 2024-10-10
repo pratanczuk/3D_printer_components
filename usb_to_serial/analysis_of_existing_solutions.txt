@@ -1,0 +1,28 @@
+1. NRF24L01 2.4GHz Wireless and dongle for host site
+	a. Price: 2$ + 10$ usb dongle
+2. CP2102
+	a. Price for IC 1.5 - 2$
+	b. Price for complete adapter 2.5 - 5(miniusb)$
+3. PL2303
+	a. Price for IC 1.5$
+	b. Price for complete adapter 1.80$
+4. FTDI FT232
+	a. Price for IC 3.5$
+	b. Price for complete adapter 10$
+5. Separate Atmega8 with V-USB software
+6. Separate  ATmega8U2,ATmega16U2,ATmega32U2 with HW USB and lufa USB stack
+	a. Price: 3$
+6. Atmega ATmega32U4 with HW USB and LUFA-USB 
+	a. Price 5$
+	b. Effort: Redesign of mainboard
+	c. Problem: Lack of versions with 64KB or more flash, only 8,16,32 versions
+7. BT Arduino serial module
+	a. Price for complete module 10$
+8. Ethernet SPI Module ENC28J60
+	a. Price for complete adapter 5$
+9. New CPU with build in ethernet and USB like AT91SAM7S512 512 Flash, 64KB RAM, USB, Ethernet,...
+	a. Price: 10$
+	b. Effort: Complet redesign of Mainboard and software
+
+ 
+	

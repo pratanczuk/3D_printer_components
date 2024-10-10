@@ -1,0 +1,82 @@
+# EESchema Netlist Version 1.1 created  2012-08-27 22:32:43
+(
+ ( /503BD830 $noname  P3 Motor {Lib=CONN_4}
+  (    1 N-000001 )
+  (    2 N-000002 )
+  (    3 N-000003 )
+  (    4 N-000004 )
+ )
+ ( /503BD81F $noname  P4 Fan_Heater {Lib=CONN_4}
+  (    1 N-000005 )
+  (    2 N-000006 )
+  (    3 N-000007 )
+  (    4 N-000008 )
+ )
+ ( /503BD814 $noname  P5 Sensor {Lib=CONN_2}
+  (    1 N-000009 )
+  (    2 N-000011 )
+ )
+ ( /502A973A $noname  P2 Input {Lib=CONN_10}
+  (    1 N-000001 )
+  (    2 N-000002 )
+  (    3 N-000003 )
+  (    4 N-000004 )
+  (    5 N-000005 )
+  (    6 N-000006 )
+  (    7 N-000007 )
+  (    8 N-000008 )
+  (    9 N-000009 )
+  (   10 N-000011 )
+ )
+ ( /4B71CF92 $noname  H4 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4B71CF8F $noname  H3 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4B71CF8B $noname  H2 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4B71CF3E $noname  H1 H1 {Lib=CONN_1}
+  (    1 GND )
+ )
+)
+*
+{ Pin List by Nets
+Net 1 "" ""
+ P2 1
+ P3 1
+Net 2 "" ""
+ P3 2
+ P2 2
+Net 3 "" ""
+ P2 3
+ P3 3
+Net 4 "" ""
+ P2 4
+ P3 4
+Net 5 "" ""
+ P4 1
+ P2 5
+Net 6 "" ""
+ P2 6
+ P4 2
+Net 7 "" ""
+ P4 3
+ P2 7
+Net 8 "" ""
+ P2 8
+ P4 4
+Net 9 "" ""
+ P2 9
+ P5 1
+Net 10 "GND" "GND"
+ H4 1
+ H3 1
+ H2 1
+ H1 1
+Net 11 "" ""
+ P5 2
+ P2 10
+}
+#End

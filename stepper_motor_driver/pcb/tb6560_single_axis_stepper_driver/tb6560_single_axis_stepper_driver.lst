@@ -1,0 +1,87 @@
+eeschema (2011-07-08 BZR 3044)-stable  >> Creation date: 2011-12-12 01:06:01
+
+#Cmp ( porządek = Oznaczenie )
+| C1         100nF       
+| C2         100nF       
+| C3         10uF        
+| C4         120pF       
+| C5         100nF       
+| C6         100nF       
+| C7         100nF       
+| C8         100nF       
+| C9         10uF        
+| C10        47uF        
+| D1         MBRS360     
+| D2         LED         
+| D3         MBRS360     
+| D4         MBRS360     
+| D5         MBRS360     
+| D6         MBRS360     
+| D7         MBRS360     
+| D8         MBRS360     
+| D9         MBRS360     
+| D10        MBRS360     
+| D11        LED         
+| F2         F6.3A       
+| IC1        TB6560HQ    
+| K1         DIR/STEP/GND
+| OK1        LTV357T     
+| OK2        LTV357T     
+| P1         MOTORS_VCC  
+| R1         330         
+| R2         330         
+| R3         1k          
+| R4         1k          
+| R5         330         
+| R6         0,15 2w     
+| R7         0,15 2w     
+| R8         10k         
+| R9         10k         
+| R10        1k          
+| SW1        DIPS_06     
+| U1         LM7805      
+#Koniec Cmp
+
+#Cmp ( porządek = Wartość )
+| 0,15 2w      R6        
+| 0,15 2w      R7        
+| 100nF        C1        
+| 100nF        C2        
+| 100nF        C5        
+| 100nF        C6        
+| 100nF        C7        
+| 100nF        C8        
+| 10k          R8        
+| 10k          R9        
+| 10uF         C3        
+| 10uF         C9        
+| 120pF        C4        
+| 1k           R3        
+| 1k           R4        
+| 1k           R10       
+| 330          R1        
+| 330          R2        
+| 330          R5        
+| 47uF         C10       
+| DIPS_06      SW1       
+| DIR/STEP/GND K1        
+| F6.3A        F2        
+| LED          D2        
+| LED          D11       
+| LM7805       U1        
+| LTV357T      OK1       
+| LTV357T      OK2       
+| MBRS360      D1        
+| MBRS360      D3        
+| MBRS360      D4        
+| MBRS360      D5        
+| MBRS360      D6        
+| MBRS360      D7        
+| MBRS360      D8        
+| MBRS360      D9        
+| MBRS360      D10       
+| MOTORS_VCC   P1        
+| TB6560HQ     IC1       
+#Koniec Cmp
+
+#Koniec listy

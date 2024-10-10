@@ -1,0 +1,430 @@
+# EESchema Netlist Version 1.1 created  2011-12-25 17:16:34
+(
+ ( /4B2D5857 SM0805 C1 100nF
+  ( 1 VEE )
+  ( 2 GND )
+ )
+ ( /4B2D5879 SM0805 C2 100nF
+  ( 1 VDD )
+  ( 2 GND )
+ )
+ ( /4B2E0833 SM1206POL C3 10uF
+  ( 1 VDD )
+  ( 2 GND )
+ )
+ ( /4B65AB00 SM0805 C4 120pF
+  ( 1 N-000027 )
+  ( 2 GND )
+ )
+ ( /4B65AB1F SM0805 C5 100nF
+  ( 1 VDD )
+  ( 2 GND )
+ )
+ ( /4EDBD30D SM0805 C6 100nF
+  ( 1 GND )
+  ( 2 N-000003 )
+ )
+ ( /4B65AB08 SM0805 C7 100nF
+  ( 1 N-000018 )
+  ( 2 GND )
+ )
+ ( /4EDBD0C3 SM0805 C8 100nF
+  ( 1 GND )
+  ( 2 N-000040 )
+ )
+ ( /4EDBE399 SM1206POL C9 10uF
+  ( 1 VDD )
+  ( 2 GND )
+ )
+ ( /4EDBE183 SM1206POL C10 47uF
+  ( 1 N-000018 )
+  ( 2 GND )
+ )
+ ( /4EF59DB6 SM1210L C11 1uF
+  ( 1 VEE )
+  ( 2 N-000036 )
+ )
+ ( /4EF59DBA SM1210L C12 1uF
+  ( 1 N-000036 )
+  ( 2 N-000013 )
+ )
+ ( /4EF5A158 CPR10X16 C13 2200uF
+  ( 1 +12 )
+  ( 2 GND )
+ )
+ ( /4B38B25C DO214AB D1 MBRS360
+  ( A +12 )
+  ( C VEE )
+ )
+ ( /4B2DE6B7 LED-1206 D2 LED
+  ( 1 VDD )
+  ( 2 N-000022 )
+ )
+ ( /4B65AB17 DO214AB D3 MBRS360
+  ( A /Y_BM )
+  ( C N-000039 )
+ )
+ ( /4B65AB13 DO214AB D4 MBRS360
+  ( A GND )
+  ( C /Y_BM )
+ )
+ ( /4B65AB18 DO214AB D5 MBRS360
+  ( A /Y_BP )
+  ( C N-000039 )
+ )
+ ( /4B65AB14 DO214AB D6 MBRS360
+  ( A GND )
+  ( C /Y_BP )
+ )
+ ( /4B65AB19 DO214AB D7 MBRS360
+  ( A /Y_AM )
+  ( C N-000039 )
+ )
+ ( /4B65AB15 DO214AB D8 MBRS360
+  ( A GND )
+  ( C /Y_AM )
+ )
+ ( /4B65AB1A DO214AB D9 MBRS360
+  ( A /Y_AP )
+  ( C N-000039 )
+ )
+ ( /4B65AB16 DO214AB D10 MBRS360
+  ( A GND )
+  ( C /Y_AP )
+ )
+ ( /4EDBD554 LED-1206 D11 LED
+  ( 1 VDD )
+  ( 2 N-000015 )
+ )
+ ( /4EF59DA3 LED-1206 D12 LED
+  ( 1 N-000039 )
+  ( 2 N-000014 )
+ )
+ ( /4B71D15D FUSE5-20 F2 F6.3A
+  ( 1 N-000018 )
+  ( 2 N-000039 )
+ )
+ ( /4B65AAF9 HZIP25 IC1 TB6560HQ
+  ( 1 N-000019 )
+  ( 2 N-000009 )
+  ( 3 /STEP )
+  ( 4 N-000003 )
+  ( 5 N-000040 )
+  ( 6 GND )
+  ( 7 N-000027 )
+  ( 8 N-000018 )
+  ( 9 /Y_BM )
+  ( 10 GND )
+  ( 11 /Y_NFB )
+  ( 12 /Y_BP )
+  ( 13 /Y_AM )
+  ( 14 /Y_NFA )
+  ( 15 GND )
+  ( 16 /Y_AP )
+  ( 17 ? )
+  ( 18 N-000018 )
+  ( 19 N-000023 )
+  ( 20 VDD )
+  ( 21 /DIR )
+  ( 22 N-000017 )
+  ( 23 N-000010 )
+  ( 24 N-000025 )
+  ( 25 N-000024 )
+ )
+ ( /4EDBE73B PIN_ARRAY_3X1 K1 DIR/STEP/GND
+  ( 1 N-000031 )
+  ( 2 DGND )
+  ( 3 N-000016 )
+ )
+ ( /4B678589 LTV357NT OK1 LTV357T
+  ( 1 N-000006 )
+  ( 2 DGND )
+  ( 3 /STEP )
+  ( 4 VDD )
+ )
+ ( /4B678583 LTV357NT OK2 LTV357T
+  ( 1 N-000026 )
+  ( 2 DGND )
+  ( 3 /DIR )
+  ( 4 VDD )
+ )
+ ( /4EDE6E93 PIN_ARRAY-6X1 P1 MOTORS_VCC
+  ( 1 /Y_AP )
+  ( 2 /Y_AM )
+  ( 3 /Y_BP )
+  ( 4 /Y_BM )
+  ( 5 GND )
+  ( 6 +12 )
+ )
+ ( /4EF74BAE 1pin P2 Screw
+  ( 1 ? )
+ )
+ ( /4EF74C06 1pin P3 Screw
+  ( 1 ? )
+ )
+ ( /4EF74BFD 1pin P4 Screw
+  ( 1 ? )
+ )
+ ( /4EF74C0B 1pin P5 Screw
+  ( 1 ? )
+ )
+ ( /4EF59D8F TO220_MOSFET_P_VERT Q1 MOSFET_P
+  ( D VEE )
+  ( G N-000036 )
+  ( S N-000039 )
+ )
+ ( /4B67858D SM0805 R1 330
+  ( 1 N-000016 )
+  ( 2 N-000006 )
+ )
+ ( /4B678587 SM0805 R2 330
+  ( 1 N-000031 )
+  ( 2 N-000026 )
+ )
+ ( /4B67858A SM0805 R3 1k
+  ( 1 /STEP )
+  ( 2 GND )
+ )
+ ( /4B678584 SM0805 R4 1k
+  ( 1 /DIR )
+  ( 2 GND )
+ )
+ ( /4B2DE6F1 SM0805 R5 330
+  ( 1 N-000022 )
+  ( 2 GND )
+ )
+ ( /4B65AAFC R_2Watt_Horz_AKL101-1Side R6 0,15_2w
+  ( 1 /Y_NFA )
+  ( 2 GND )
+ )
+ ( /4B65AAFD R_2Watt_Horz_AKL101-1Side R7 0,15_2w
+  ( 1 /Y_NFB )
+  ( 2 GND )
+ )
+ ( /4EDBD30E SM0805 R8 10k
+  ( 1 VDD )
+  ( 2 N-000003 )
+ )
+ ( /4EDBD0B9 SM0805 R9 10k
+  ( 1 VDD )
+  ( 2 N-000040 )
+ )
+ ( /4EDBD50B SM0805 R10 1k
+  ( 1 N-000023 )
+  ( 2 N-000015 )
+ )
+ ( /4EF59DC5 SM0805 R11 100k
+  ( 1 GND )
+  ( 2 N-000013 )
+ )
+ ( /4EF59DCF SM0805 R12 10k
+  ( 1 GND )
+  ( 2 N-000014 )
+ )
+ ( /4EF5A230 SM0805 R13 1k
+  ( 1 VDD )
+  ( 2 N-000008 )
+ )
+ ( /4B6A1BFF DP-06 SW1 DIPS_06
+  ( 1 N-000024 )
+  ( 2 N-000025 )
+  ( 3 N-000010 )
+  ( 4 N-000017 )
+  ( 5 N-000009 )
+  ( 6 N-000019 )
+  ( 7 N-000008 )
+  ( 8 N-000008 )
+  ( 9 N-000008 )
+  ( 10 N-000008 )
+  ( 11 N-000008 )
+  ( 12 N-000008 )
+ )
+ ( /4B621F21 LM78XX U1 LM7805
+  ( GND GND )
+  ( VI VEE )
+  ( VO VDD )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ CP*
+ SM*
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ CP*
+ SM*
+$endlist
+$component C10
+ CP*
+ SM*
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component C13
+ CP*
+ SM*
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D11
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D12
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

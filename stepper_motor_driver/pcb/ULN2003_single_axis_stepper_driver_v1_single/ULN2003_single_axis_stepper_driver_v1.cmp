@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 2012-08-15 22:11:28
+
+BeginCmp
+TimeStamp = /502BFD86;
+Reference = D1;
+ValeurCmp = ZENER;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF3E;
+Reference = H1;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF8B;
+Reference = H2;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF8F;
+Reference = H3;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B71CF92;
+Reference = H4;
+ValeurCmp = H1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BFD13;
+Reference = P1;
+ValeurCmp = TTL_Input;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4B2E505A;
+Reference = P2;
+ValeurCmp = 12/24v_Power;
+IdModule  = PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BFBCC;
+Reference = P3;
+ValeurCmp = Motor_socket;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BFCE8;
+Reference = U1;
+ValeurCmp = ULN2003;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+EndListe
